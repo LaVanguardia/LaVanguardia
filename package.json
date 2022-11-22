@@ -29,7 +29,7 @@
     "react-leaflet": "^2.6.1",
     "react-multi-carousel": "^2.5.3",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.4.1",
     "styled-components": "^5.0.1",
     "svg-country-flags": "^1.2.7"
